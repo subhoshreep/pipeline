@@ -1,0 +1,34 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      
+      
+      "Name": {
+        "value": "apim-bts-prod/zendesk-prd-refund-sap"
+      },
+      "Path": {
+        "value": "/rpa"
+      },
+      "OperationName": {
+        "value": "apim-bts-prod/zendesk-prd-refund-sap/postdata"
+      },
+      "alloperationlevel": {
+        "value": "apim-bts-prod/zendesk-prd-refund-sap/policy"
+      },
+      "policyapilevelput": {
+        "value": "apim-bts-prod/zendesk-prd-refund-sap/postdata/policy"
+      },
+  
+      "displayname":
+     {
+      "value": "Zendesk PRD SAP Refund"
+     },
+     
+     "testorprod":
+     {
+      "value": "prod"
+     }
+     
+    }
+  }

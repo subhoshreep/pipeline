@@ -1,0 +1,12 @@
+# Copyright (C) 2023 TomTom NV. All rights reserved.
+
+site_name: integrate-zendesk-saprefund
+site_description: This is code migration of integrate-zendesk-saprefund Solution
+repo_url: https://github.com/tomtom-internal/integrate-zendesk-saprefund
+edit_uri: edit/main/docs # Please update the main to be the default branch for your repo if it is not main
+
+nav:
+  - Home: 'README.md' # Please update the nav for your repo
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,19 @@
+# Copyright (C) 2023 TomTom NV. All rights reserved.
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: integrate-zendesk-saprefund
+
+  title: integrate-zendesk-saprefund
+
+  description: A github repository for integrate-zendesk-saprefund solution in BizTalk prod
+  annotations:
+    github.com/project-slug: tomtom-internal/integrate-zendesk-saprefund
+    backstage.io/techdocs-ref: dir:.
+  tags: []
+  links: []
+spec:
+  type: service
+  owner: group:default/sp-commercial-applications-biztalk
+  lifecycle: production

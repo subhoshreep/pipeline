@@ -1,0 +1,10 @@
+repository:
+  name: enterpriseit-zendesk-saprefund
+  previous-repo-name:
+  is-mono-repo: false
+organization:
+  teams:
+  - Enterprise IT BizTalk
+  pu: Enterprise IT
+  technical-services:
+  - BizTalk zendesk SAP Refund
